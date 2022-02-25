@@ -1,2 +1,2 @@
 # postfix
-A postfix interpreter written in Rust
+A interpreter for the Postfix language written in Rust
