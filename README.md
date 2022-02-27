@@ -10,3 +10,4 @@
 0.4.0 - a working postfix compiler
 
 TODO: check at compile time if the program is valid
+TODO: explore how wasm type checks modules
